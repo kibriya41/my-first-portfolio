@@ -96,4 +96,47 @@ nav .manu a{
     vertical-align: middle;
 
 }
+#about{
+    padding:  155px;
+}
+#about .about-container{
+    maxwidth: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF8F3;
+    padding: 106px 156px;
+}
+.setion-hesding{
+    max-width: 827px;
+    text-align: center;
+}
 
+.setion-hesding h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.setion-hesding p{
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    color: #757575;
+}
+
+
+#about .about-container .about-info{
+    display: flex;
+   justify-content: space-around;
+}
+
+#about .about-container .about-info p{
+    font-size: 18px;
+    line-height: 30px;
+    color: #757575
+}
+
+#about .about-container .about-info h4{
+    font-size: 20px;
+
+}
