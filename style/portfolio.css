@@ -109,6 +109,7 @@ nav .manu a{
 .setion-hesding{
     max-width: 827px;
     text-align: center;
+    margin: 0 auto;
 }
 
 .setion-hesding h2{
@@ -140,3 +141,45 @@ nav .manu a{
     font-size: 20px;
 
 }
+
+#do{
+    padding-top: 130px;
+}
+
+#do .do-container{
+    max-width: 1140px;
+    margin: 0 auto ;
+}
+
+.do-card{
+    /* display: flex; */
+    padding: 30px;
+    max-width: 267px;
+    box-shadow: 0 6px 40px 0 #5e5c5c ;
+}
+
+.do-container .do-box{
+    display: flex;
+    gap: 24px ;
+}
+
+.do-box img{
+    max-width: 44px;
+    margin-bottom: 30px;
+}
+
+.do-box h4{
+    font-size: 20px;
+    font-weight:  bold;
+    margin-bottom: 30px;
+}
+
+
+.do-box{
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    color: #757575;
+}
+
+
